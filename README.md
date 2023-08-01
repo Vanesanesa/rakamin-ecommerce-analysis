@@ -5,6 +5,9 @@ Pada Mini Project perusahaan eCommerce ini salah satu marketplace terbesar di Am
 Sebagai anggota dari tim Data Analytics, menganalisis tiga aspek yang berkaitan dengan performa bisnis perusahaan tersebut untuk untuk membuat laporan Business Perfomance Review
 
 Ketiga aspek tersebut di antaranya adalah
-•	pertumbuhan pelanggan, 
-•	kualitas produk dan 
-•	tipe pembayaran
+
+•	Pertumbuhan pelanggan,
+
+•	Kualitas produk dan 
+
+•	Tipe pembayaran
